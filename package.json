@@ -1,0 +1,14 @@
+{
+  "name": "franco889",
+  "version": "1",
+  "description": "tableau extension test",
+  "main": "1",
+  "repository": "https://github.com/franco889/tableau-extensions-tutorial-part-one",
+  "author": "franco",
+  "license": "no",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
